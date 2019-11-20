@@ -1,0 +1,8 @@
+target/
+dist/
+.idea/
+.tmp/
+.project
+.classpath
+.settings
+.metadata/
